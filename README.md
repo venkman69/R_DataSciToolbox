@@ -1,2 +1,4 @@
-# R_DataSciToolbox
-Coursera Course Project
+# DataSciToolbox using R
+# Narayan Natarajan
+Coursera Course Project Repo
+
